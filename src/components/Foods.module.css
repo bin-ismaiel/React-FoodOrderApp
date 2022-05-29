@@ -1,0 +1,9 @@
+.div{padding: 1rem;
+box-shadow: 0 2px 8px rgb(0 0 0 / 25%);
+border-radius: 14px;
+background-color: white;
+max-width: 60rem;
+width: 90%;
+margin: 2rem auto;
+
+}
